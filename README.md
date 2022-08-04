@@ -1,3 +1,3 @@
 # WEBSITE-CASO
 
-Đây là dự án tạo Website CASO
+Đây là dự án Website CASO
